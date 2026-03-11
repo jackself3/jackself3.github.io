@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://localhost:8888/</loc>
+        <loc>https://jackself3.github.io/</loc>
     </url>
     <url>
-        <loc>http://localhost:8888/about/</loc>
+        <loc>https://jackself3.github.io/about/</loc>
     </url>
     <url>
-        <loc>http://localhost:8888/projects/</loc>
+        <loc>https://jackself3.github.io/projects/</loc>
     </url>
     <url>
-        <loc>http://localhost:8888/tags/</loc>
+        <loc>https://jackself3.github.io/tags/</loc>
     </url>
 </urlset>

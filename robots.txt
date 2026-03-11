@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: http://localhost:8888/sitemap.xml
+Sitemap: https://jackself3.github.io/sitemap.xml
